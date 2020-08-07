@@ -38,8 +38,8 @@ console.log(ids);
 //find the big id from the information by using filter
 const students =[
     {id:21, name: "shakib"},
-    {id:31, name: "shuchorita"},
-    {id:41, name: "mahi"},
+    {id:31, name: "suchorita"},
+    {id:51, name: "mahi"},
     {id:71, name: "mostofa"}
 ];
 const bigNumber = students.filter(s => s.id>40);
