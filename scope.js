@@ -9,6 +9,6 @@ function sum(first , second){
     return result;
     
 }
-const output = sum(5, 7);
+// const output = sum(5, 5);
 // console.log(bonus);
 // console.log(output);
